@@ -8,9 +8,7 @@ Over the years, I've honed my technical skills and developed a keen eye for deta
 
 I have been actively expanding my knowledge in data analysis, mastering tools such as R, SQL, and various data visualization platforms. My goal is to combine my technical expertise with data analytics to solve real-world problems, enhance performance, and contribute to strategic planning. 
 
-- 🌱 I’m currently re-learning **RStudio**
-
-- 👨‍💻 All of my projects are available [here](https://github.com/emma8874/portfolio)
+- 👨‍💻 My portfolio is available [here](https://github.com/emma8874/portfolio)
 
 
 _____________________
